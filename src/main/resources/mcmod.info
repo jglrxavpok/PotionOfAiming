@@ -1,0 +1,16 @@
+[
+{
+  "modid": "potionofaiming",
+  "name": "Potion of Aiming",
+  "description": "New potion that enables you to see where you aim!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jglrxavpok"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
